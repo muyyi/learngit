@@ -1,7 +1,7 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
 I create this repository to learn git.
 
 finaly,I got know how to use git!
 congratulation!you are great!
+
+by muyyi in 2017/02/20
 
